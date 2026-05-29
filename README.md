@@ -1,6 +1,3 @@
-Aqui está um modelo de README.md limpo, organizado e totalmente em inglês para o seu repositório. Ele cobre desde os pré-requisitos até a execução do bot.
-
-Markdown
 # Minecraft Terminal Chat Bot
 
 A simple Node.js and Python-based Minecraft bot that connects to a specific server, displays the in-game chat directly in your terminal, and allows you to send messages back to the server from your console.
