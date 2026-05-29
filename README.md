@@ -26,7 +26,7 @@ npm install mineflayer
 ```
 
 ⚙️ Configuration
-Open the script file (Leitor.py or your renamed script) and modify the following configuration constants at the top of the file:
+Open the script file (MinecraftServersChatReader.py) and modify the following configuration constants at the top of the file:
 
 ``` Python
 SERVER_IP = 'SERVER_HERE'     # Replace with your target Minecraft server IP
