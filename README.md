@@ -28,17 +28,21 @@ npm install mineflayer
 ⚙️ Configuration
 Open the script file (Leitor.py or your renamed script) and modify the following configuration constants at the top of the file:
 
-Python
+``` Python
 SERVER_IP = 'SERVER_HERE'     # Replace with your target Minecraft server IP
 SERVER_PORT = 25565           # Replace with the server port (Default: 25565)
 BOT_NICK = 'YOUR_NICK_HERE'   # Replace with the bot's username/nickname
+```
+
 ⚠️ Note: The bot is currently configured for Minecraft version 1.20.2. If your server uses a different version, make sure to update the 'version' field inside the mineflayer.createBot initialization block.
 
 💻 Usage
 Run the script using Python:
 
-Bash
-python Leitor.py
+```Bash
+python MinecraftServersChatReader.py
+```
+
 How to interact:
 Once the terminal prints [+] Bot <Nick> ready and connected!, you can start typing.
 
