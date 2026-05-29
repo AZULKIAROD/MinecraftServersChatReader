@@ -23,6 +23,8 @@ Before running the script, make sure you have the following installed on your sy
 ```bash
 pip install javascript
 npm install mineflayer
+```
+
 ⚙️ Configuration
 Open the script file (Leitor.py or your renamed script) and modify the following configuration constants at the top of the file:
 
